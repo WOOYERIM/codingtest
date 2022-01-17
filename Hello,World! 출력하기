@@ -4,5 +4,6 @@ if __name__ == '__main__':
     print(my_string)
     
     
-    
+## 결과값
+    Hello, World!
     
