@@ -1,0 +1,17 @@
+# // : 나온 값을 정수로 표현하고 싶을때 즉, 소수점 자리 없애주기
+
+from __future__ import division
+
+if __name__ == '__main__':
+    a = int(raw_input())
+    b = int(raw_input())
+
+print('{0} \n{1}'.format((a//b),(a/b)))
+
+##결과값
+ [input]
+       4
+       3
+ [output]
+       1
+       1.33333333333
